@@ -1,5 +1,5 @@
 {
-    "name": "astina/social-links-bundle",
+    "name": "grekpg/social-links-bundle",
     "description": "Symfony bundle that is using SocialLinks to generate share links for social networks.",
     "keywords": ["astina", "social", "links", "share"],
     "type": "symfony-bundle",
